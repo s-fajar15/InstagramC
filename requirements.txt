@@ -1,0 +1,4 @@
+requestsq
+pycryptodomex
+PyNaCl
+cryptography
