@@ -1,4 +1,4 @@
-requestsq
+requests
 pycryptodomex
 PyNaCl
 cryptography
