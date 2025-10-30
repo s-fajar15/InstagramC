@@ -1,6 +1,6 @@
 # Instagram Crack
 
-Tools Instagram multifungsi yang dikembangkan menggunakan Python untuk melakukan berbagai operasi seperti dumping data pengguna, cracking akun, dan analisis profil.
+Tools otomatisasi Instagram berbasis Python dengan fitur lengkap: login, dump data pengguna (followers, likes, komentar)
 
 ## 🚀 Fitur Utama
 - 🔐 **Login via Cookie Instagram**
